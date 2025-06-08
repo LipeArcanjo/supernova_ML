@@ -1,0 +1,13 @@
+geopy
+brazilcep
+openmeteo-requests
+requests-cache
+retry-requests
+numpy
+pandas
+flask
+scikit-learn
+lightgbm
+joblib
+
+
